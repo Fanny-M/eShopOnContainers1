@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fanny.bouffanais\\Desktop\\eShopOnContainers\\eShopOnContainers\\src\\services\\catalog\\CatalogApi\\CatalogApi.csproj",
+      "projectUniqueName": "C:\\Users\\fanny.bouffanais\\Desktop\\eShopOnContainers1\\eShopOnContainers\\eShopOnContainers\\src\\services\\catalog\\CatalogApi\\CatalogApi.csproj",
       "projectName": "CatalogApi",
-      "projectPath": "C:\\Users\\fanny.bouffanais\\Desktop\\eShopOnContainers\\eShopOnContainers\\src\\services\\catalog\\CatalogApi\\CatalogApi.csproj",
+      "projectPath": "C:\\Users\\fanny.bouffanais\\Desktop\\eShopOnContainers1\\eShopOnContainers\\eShopOnContainers\\src\\services\\catalog\\CatalogApi\\CatalogApi.csproj",
       "packagesPath": "C:\\Users\\fanny.bouffanais\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fanny.bouffanais\\Desktop\\eShopOnContainers\\eShopOnContainers\\src\\services\\catalog\\CatalogApi\\obj\\",
+      "outputPath": "C:\\Users\\fanny.bouffanais\\Desktop\\eShopOnContainers1\\eShopOnContainers\\eShopOnContainers\\src\\services\\catalog\\CatalogApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
